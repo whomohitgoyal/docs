@@ -52,6 +52,25 @@
             ]
           }
         ]
+      },
+            {
+        "tab": "How to Guides",
+        "groups": [
+          {
+            "group": "Access",
+            "pages": [
+              "how-to-guides/login"
+            ]
+          },
+          {
+            "group": "Endpoint Examples",
+            "pages": [
+              "api-reference/endpoint/get",
+              "api-reference/endpoint/create",
+              "api-reference/endpoint/delete"
+            ]
+          }
+        ]
       }
     ],
     "global": {
