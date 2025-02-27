@@ -53,7 +53,7 @@
           }
         ]
       },
-            {
+      {
         "tab": "How to Guides",
         "groups": [
           {
@@ -71,9 +71,7 @@
             ]
           }
         ]
-      }
-    ],
-  },
+      },
   "logo": {
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg"
